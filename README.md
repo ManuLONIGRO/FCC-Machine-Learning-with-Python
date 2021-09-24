@@ -2,9 +2,10 @@
 Here I will put each of the exercises from the Freecodecamp.org course called Machine Learning with python.
 
 Links:
+Rock - Paper - Scissors 
+https://replit.com/@ManuelLonigro/boilerplate-rock-paper-scissors-1#RPS.py
 
-
-cat and dog image classifier
+Cat and dog image classifier
 https://colab.research.google.com/drive/1LfEcRmugZMGvLUs7JC2RfV7FtcULX-Tg?usp=sharing
 
 Book recomendation engine using KNN
